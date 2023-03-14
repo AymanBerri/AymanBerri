@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AymanBerri
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning Python, GameDev
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on any interesting projects. I like to learn new skills.
 - 📫 Reach me berriayman11@gmail.com
 
